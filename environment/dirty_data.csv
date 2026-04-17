@@ -1,0 +1,20 @@
+Name , Age, Email ,City
+Alice,30,alice@example.com,New York
+, , , 
+Bob ,25, bob@example.com ,London
+Alice,30,alice@example.com,New York
+ Charlie ,35,charlie@example.com, Paris 
+,,,,
+Dave,999,dave@example.com,Tokyo
+Eve,28,,Berlin
+Alice,30,alice@example.com,New York
+ ,  ,  ,  
+Frank,40,frank@example.com, Sydney
+Bob,25,bob@example.com,London
+  Grace  ,22,  grace@example.com  ,  Seoul  
+Heidi,,heidi@example.com,Cairo
+Ivan,31,ivan@example.com,
+ , , , 
+Grace,22,grace@example.com,Seoul
+Dave,999,dave@example.com,Tokyo
+Frank,40,frank@example.com,Sydney
